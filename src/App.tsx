@@ -81,8 +81,8 @@ export default function App() {
       favicon.rel = "shortcut icon";
       document.head.appendChild(favicon);
     }
-    favicon.href = "/assets/logo.webp";
-    favicon.type = "image/webp";
+    favicon.href = logoImg;
+    favicon.type = "image/jpeg";
   }, []);
 
   // 1. Listen for page scroll to apply sticky header dynamics
