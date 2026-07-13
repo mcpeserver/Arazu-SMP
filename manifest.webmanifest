@@ -1,0 +1,17 @@
+{
+  "name": "Arazu SMP",
+  "short_name": "Arazu SMP",
+  "description": "Website modern untuk Arazu SMP bertema Japanese Economy Minecraft",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/assets/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}

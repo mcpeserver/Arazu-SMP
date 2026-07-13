@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arazusmp.my.id/sitemap.xml
